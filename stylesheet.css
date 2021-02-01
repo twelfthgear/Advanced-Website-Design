@@ -41,13 +41,71 @@ body{
 .query{
     font-weight:normal;
     color: #ffffff;
-    stroke: black;
+    -webkit-text-stroke: 2px black;
     right:5vw;
     font-size: 4vw;
     top: 9vh;
     position:fixed;
-    transform: rotate(18deg)
+    transform: rotate(18deg);
+    text-decoration: underline;
+}
 
+.scamazon {
+    position: fixed;
+    top:7vh;
+    left: 5vw;
+    font-size:7.75vw;
+    font-weight:normal;
+    color: #004CFF;
+    text-shadow: 2vh 1.5vh #00FF4C;
+}
+
+.ourproducts {
+    position: fixed;
+    font-weight:normal;
+    color: #FFEE00;
+    left:42vw;
+    font-size: 2.75vw;
+    top: 23vh;
+    position:fixed;
+    transform: rotate(18deg);
+    text-decoration: underline;
+}
+
+.savesalots {
+    position: fixed;
+    font-weight:normal;
+    color: #FF4DCF;
+    left:52vw;
+    font-size: 2.75vw;
+    top: 23vh;
+    position:fixed;
+    transform: rotate(18deg);
+    text-decoration: underline;
+}
+
+.instore {
+    position: fixed;
+    font-weight:normal;
+    color: #00FF4C;
+    left:66vw;
+    font-size: 2.75vw;
+    top: 23vh;
+    position:fixed;
+    transform: rotate(18deg);
+    text-decoration: underline;
+}
+
+.emptyhirings {
+    position: fixed;
+    font-weight:normal;
+    color: #FF002B;
+    left:74vw;
+    font-size: 2.75vw;
+    top: 23vh;
+    position:fixed;
+    transform: rotate(18deg);
+    text-decoration: underline;
 }
 
 .redBody{
