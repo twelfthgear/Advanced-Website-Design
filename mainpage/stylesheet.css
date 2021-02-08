@@ -115,3 +115,136 @@ body{
     position:fixed;
     background-color: #FF0000;
 }
+
+.cashierpic{
+    position: fixed;
+    bottom: 5vh;
+    left: 45vw;
+}
+
+.boxpic {
+    position: fixed;
+    bottom: 20vh;
+    right: 5vw;
+    transform: rotate(18deg);
+}
+
+.snacks {
+    position: fixed;
+    bottom: 40vh;
+    left: 45vw;
+}
+
+.tech {
+    position: fixed;
+    bottom: 15vh;
+    left: 3vw;
+}
+
+.cart {
+    position: fixed;
+    bottom: 15vh;
+    left: 25vw;
+}
+
+.refresh {
+    position: fixed;
+    bottom: 35vh;
+    right: 15vw;
+    transform: rotate(18deg);
+}
+
+.newLocation {
+    position: fixed;
+    top:38vh;
+    left: 5vw;
+    font-size:3vw;
+    font-weight:normal;
+    color: #15D4E9;
+}
+
+.on {
+    position: fixed;
+    top:45vh;
+    left: 5vw;
+    font-size:3vw;
+    font-weight:normal;
+    color: #15D4E9;
+}
+
+.ninth {
+    position: fixed;
+    top:45vh;
+    left: 10vw;
+    font-size:3vw;
+    font-weight:normal;
+    color:#F604F6;
+}
+
+.clickHere {
+    position: fixed;
+    bottom: 45vh;
+    right: 15vw;
+    transform: rotate(9deg);
+    font-size:2vw;
+    font-weight:normal;
+    color: #88FF00;
+}
+
+.clickHerecart {
+    position: fixed;
+    bottom: 42vh;
+    right: 29.5vw;
+    transform: rotate(9deg);
+    font-size:2vw;
+    font-weight:normal;
+    color:#88FF00;
+}
+
+.goodSnacks{
+    position: fixed;
+    top:45vh;
+    left: 45vw;
+    font-size:6vw;
+    font-weight:normal;
+    color:#0AFB49;
+}
+
+.greatDeals{
+    position: fixed;
+    bottom:-5vh;
+    left: 2vw;
+    font-size:5vw;
+    font-weight:normal;
+    color:#064570;
+}
+
+.delivery {
+    position: fixed;
+    bottom: 18vh;
+    right: 20vw;
+    transform: rotate(18deg);
+    font-size:2vw;
+    font-weight:normal;
+    text-decoration: underline;
+    color:#FFEE00;
+}
+.available {
+    position: fixed;
+    bottom: 13vh;
+    right: 20vw;
+    transform: rotate(18deg);
+    font-size:2vw;
+    font-weight:normal;
+    text-decoration: underline;
+    color:#FFEE00;
+}
+
+.nicePeople{
+    position: fixed;
+    bottom:-5vh;
+    right: 10vw;
+    font-size:5vw;
+    font-weight:normal;
+    color:#F5F500;
+}
